@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PerimetrApp
 {
-    class Model : IModel
+    class ModelGreat : IModel
     {
         public int GetP(int a, int b)
         {
